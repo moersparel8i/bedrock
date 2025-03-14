@@ -12,7 +12,7 @@ Docs
 ----
 
 Bedrock is a [Django][django] project. Check out the [django docs][dj-docs] for
-general technical documentation. In addition, there are project-specific
+general technical documentation. In addition, there are project-specific LOL
 [bedrock docs][br-docs].
 
 [django]: https://www.djangoproject.com/
